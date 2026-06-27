@@ -1,31 +1,20 @@
 class Solution:
     def maximumLength(self, nums: List[int]) -> int:
-        freq = Counter(nums)
-        ans = 1
+        count = Counter(nums)
 
-        # case for 1
-        if 1 in freq:
-            ans = max(ans, freq[1] if freq[1] % 2 == 1 else freq[1] - 1)
+        res = 0
+        for key in count.keys():
+            if key == 1:
+                total = count[key] if count[key] % 2 else count[key] - 1
+            else:
+                total = 0
 
-        for x in freq:
-            if x == 1:
-                continue
-
-            cur = x
-            length = 0
-
-            while cur in freq:
-                if freq[cur] >= 2:
-                    length += 2
-                    cur = cur * cur
-                else:
-                    length += 1
-                    break
-
-            # pattern length must be odd
-            if length % 2 == 0:
-                length -= 1
-
-            ans = max(ans, length)
-
-        return ans
+                while count[key] >= 2 and key * key in count:
+                    total += 2
+                    key = key * key
+                
+                total += 1
+            
+            res = max(res, total)
+        
+        return res
