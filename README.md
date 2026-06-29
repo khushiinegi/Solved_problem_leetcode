@@ -74,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
