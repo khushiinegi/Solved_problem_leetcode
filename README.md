@@ -90,4 +90,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
