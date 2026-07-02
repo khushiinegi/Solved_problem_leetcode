@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Sliding Window
@@ -136,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
