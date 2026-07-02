@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
