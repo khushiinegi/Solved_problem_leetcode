@@ -105,10 +105,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0100-same-tree/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0100-same-tree/) | Easy |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
