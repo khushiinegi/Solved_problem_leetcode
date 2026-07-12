@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0146-lru-cache](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0146-lru-cache/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0146-lru-cache](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +212,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0047-permutations-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
