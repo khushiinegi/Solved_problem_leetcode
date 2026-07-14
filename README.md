@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -250,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
