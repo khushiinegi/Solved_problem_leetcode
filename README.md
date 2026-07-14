@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0067-add-binary/) | Easy |
+| [0071-simplify-path](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0071-simplify-path/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0071-simplify-path/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
