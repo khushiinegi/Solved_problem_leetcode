@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
