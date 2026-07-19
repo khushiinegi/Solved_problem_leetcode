@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0125-valid-palindrome](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
