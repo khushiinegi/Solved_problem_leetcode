@@ -295,4 +295,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
