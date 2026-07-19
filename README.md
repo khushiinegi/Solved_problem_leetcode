@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
