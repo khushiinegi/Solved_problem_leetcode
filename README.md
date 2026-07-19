@@ -299,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0195-tenth-line](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0195-tenth-line/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
