@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1260-shift-2d-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/0067-add-binary/) | Easy |
+| [1260-shift-2d-grid](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushiinegi/Solved_problem_leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
